@@ -53,8 +53,8 @@ Natasha Corregio
 
 ### Aplicação React
 
-![Aplicação React](imagem/Print Notas Rápidas com Lista.png)
+![Aplicação React](imagem/react-app.png)
 
 ### Banco de Dados no Supabase
 
-![Supabase](imagem/BD Supabase - Listagem de Notas.png)
+![Supabase](imagem/supabase-notas.png)
