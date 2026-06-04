@@ -48,3 +48,13 @@ A conexão foi realizada utilizando a URL do projeto e a chave pública fornecid
 ## Autor
 
 Natasha Corregio
+
+## Prints do Projeto
+
+### Aplicação React
+
+![Aplicação React](imagem/Print Notas Rápidas com Lista.png)
+
+### Banco de Dados no Supabase
+
+![Supabase](imagem/BD Supabase - Listagem de Notas.png)
