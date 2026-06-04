@@ -45,9 +45,9 @@ npm install @supabase/supabase-js
 
 A conexão foi realizada utilizando a URL do projeto e a chave pública fornecidas pelo Supabase.
 
-## Autor
+## Autores
 
-Natasha Corregio
+Natasha Iancen Corregio e Adrian Gabriel Silvestre
 
 ## Prints do Projeto
 
